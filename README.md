@@ -1,1 +1,8 @@
 # SAMP-DDOS
+
+# cd SAMP-DDOS
+# ls
+# python3 SAMP-NUDOS-DDOS-SAMP.py
+
+
+# DDOS FOR SAMP AND PANEL
