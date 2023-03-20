@@ -1,5 +1,7 @@
 # SAMP-DDOS
 
+#    CMD
+
 cd SAMP-DDOS
 
 ls
